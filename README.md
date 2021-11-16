@@ -1,6 +1,6 @@
 
 # Self-balancing bicycle
-An Open Source model of a bicycle agent that self-balance itself and navigate to a certain target location.  
+An Open Source model of a bicycle agent that self-balance itself and navigate to a certain target location in Mars Surface Environment.  
 
 Otherwise, head to [User Setup](#user-setup) if you want to use the software, or [Development Setup](#development-setup) if you want to develop.
 
