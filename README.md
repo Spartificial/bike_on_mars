@@ -1,243 +1,142 @@
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+![](gui_assets/OSSAT-LOGO-BLUE.png)
+# Mercury-GS
+An Open Source Program that allows users to interact with a Spacecraft in a lab environment, pre-launch. 
+
+For those who are new to the Space Industry and it's terminology, please refer to the [Background](#Background) section.
+Also refer to the [OSSAT Glossary](/OSSAT%20Glossary.pdf) for explanations of any terminology.  
+Otherwise, head to [User Setup](#user-setup) if you want to use the software, or [Development Setup](#development-setup) if you want to develop.
+
+**NOTE: This software is useful for lab testing a spacecraft, pre-launch. Different software would be used to communicate with the spacecraft in orbit. The communications protocol is not suitable for in-orbit communication, see [The Spec](/OSSAT%20Mercury%20GS%20Specification_08.pdf) for further details.**
+
+## Contents
+- [Background](#background)
+- [Mercury GS Overview](#mercury-gs-overview)
+- [Manual](#manual)
+- [Setup](#setup)
+  - [User Setup](#user-setup)
+  - [Development Setup](#development-setup)
+  - [Serial Comms Setup](#serial-comms-setup)
+- [Creating Test Frames](#creating-test-frames)
+- [Designing The GUI](#designing-the-gui)
+- [Building the GUI](#building-the-gui)
+- [Licenses](#licenses)
+- [Get Involved](#get-involved)
+
+## Background
+Once a Spacecraft is in flight, operators will need to communicate with it. 
+This is normally facilitated via Ground Stations located around the globe that use a radio link to send and receive packets of data.
+
+During a typical mission, a Spacecraft will send stats down to the ground, which we call Telemetry.
+This could be temperature, battery charge, sensor readings, or any data point that you can think of.
+However, the Spacecraft would usually only transmit the most important Telemetry by itself due to limitations with the radio link. 
+A Ground Station can request a particular Telemetry point by sending a Telemetry Request.
+
+The Ground Station doesn't just monitor a Spacecraft's Telemetry, an operator can send commands to tell it to do things.
+This could be switching on a particular system, turning towards the Sun to charge batteries, 
+synchronising the on-board time to the Ground or a variety of mission specific functions.
+These are facilitated by something called a Telecommand.
+
+The Ground Station also needs to upload and download files. This could be downloading images taken by a Spacecraft camera, or uploading an operating schedule or code update to the Spacecraft.
+
+## Mercury GS Overview
+
+Mercury GS fulfils the need to send Telemetry Requests, Telecommands and to display the Telemetry generated by the Spacecraft. It does this using a simple (non-flight) communications protocol. It also includes functions to synchronise the time and to upload and download files.
+
+It represents a simple solution to test spacecraft functions without reliance on the complex protocols available for spacecraft communication.
+
+In the future, we are hoping to integrate the Mercury GS functions into a Continuous Integration environment that will test the spacecraft functions continuously throughout the development.  
+Maybe you could help with this development?
+
+## Manual
+The manual, which describes how to use Mercury GS, is located in the repo [here](/Mercury%20GS%20Manual.pdf).
+
+**NOTE: This initial version of Mercury GS only fully supports Windows. 
+Linux and MacOS support is expected after further development.** 
+
+# Setup Guides
+## User Setup
+If you wish to run Mercury GS as a User, follow these steps.
+
+1. Install [Python3](https://www.python.org/downloads/).
+2. Clone the repository onto your machine. Click the "Clone" button on the Github page.
+3. In the [scripts](/scripts) folder are a number of scripts used to build the Python environment and run Mercury GS.
+
+WINDOWS:
+
+Run the batch file [build_env.bat](/scripts/build_env.bat), you only need to do this once.
+Then execute [run_env.bat](/scripts/run_env.bat) when you want to run MercuryGS.
+
+UNIX/MACOS:
+
+Run the shell script [build_env.sh](/scripts/build_env.sh), you only need to do this once.
+Then execute [run_env.sh](/scripts/run_env.sh) when you want to run MercuryGS.
+
+4. To communicate with Mercury GS via a terminal, emulating the link to a Spacecraft, follow the steps in [Serial Comms Setup](#serial-comms-setup).
+
+## Development Setup
+If you wish to develop Mercury GS, follow these steps.
+
+1. A minimal [Python3](https://www.python.org/downloads/) installation is required, it is recommended to use [*virtualenv*](https://pypi.org/project/virtualenv/) for clean Python installation and then install [PyQt](https://www.riverbankcomputing.com/static/Docs/PyQt5/designer.html) bindings.
+You can either run the scripts as shown in [User Setup](#user-setup) or manually like so:
+
+2. Clone the repo and navigate to its directory.
+
+3. Create a new virtual environment.
+```bash
+python -m venv MercuryGSEnv
+```
+4. Activate the virtual environment.
+
+For WINDOWS:
+```batch
+call MercuryGSEnv\Scripts\activate.bat
+```
+For LINUX/MAC:
+```bash
+source MercuryGSEnv/bin/activate
+```
+5. Install the required packages.
+```bash
+pip install -r requirements.txt
+```
+6. Make sure the following packages have been installed.
+```bash
+#PyQt5
+python3 -m pip install PyQt5
+# pyserial
+python3 -m pip install pyserial
+# PyQt5-tools
+python3 -m pip install PyQt5-tools
+# QtPy
+python3 -m pip install QtPy
+```
+Another solution is to install a full Python IDE like [Pycharm](https://www.jetbrains.com/pycharm/) and install the packages through its package manager.
+
+**NOTE: For further information, design and requirements. You can find the Specification for Mercury GS [here](/OSSAT%20Mercury%20GS%20Specification_08.pdf).**
+
+## Serial Comms Setup
+The low level drivers talk over a COM port that is configurable in the GUI. To emulate a connection with a SpaceCraft we must spoof a connection between two ports.  
+Download a program like [HHD Virtual Serial Port Tools](https://freevirtualserialports.com/), create a virtual pair between two ports (for example COM1 and COM2), and then open a terminal program like [TeraTerm](https://ttssh2.osdn.jp/index.html.en) to listen on one of them (COM2 for example). Settings are default 9600 baud, 8 data bits, 0 parity bits, 1 stop bit. The baudrate is configurable in the GUI on the "CONFIG" tab.
+
+**NOTE: This solution is only for Windows.**
+
+## Creating Test Frames
+Frames can be sent to MercuryGS via a terminal, these are located in the [Test Frames](/test_frames) folder.  
+[HHD Free Hex Editor](https://www.hhdsoftware.com/free-hex-editor) was used to create these frames.
+
+## Designing the GUI
+If you wish to edit the GUI, you will need Qt Designer.  
+For *Qt Designer* install, it's suggested to download the package from [here](https://build-system.fman.io/qt-designer-download), it is used to edit the UI layout - [platform-comms-app.ui](/platform-comms-app.ui).
+
+## Building the GUI
+To use the qt ui file from the Qt designer, we need to build it to a python file.  
+You can do that by running: `pyuic5 platform-comms-app.ui -o platform_comms_app.py`,
+or by running the build script from the [Scripts](/scripts) directory.  
+The built code of the current version of Mercury GS is included in the repo, so you will only need to rebuild the GUI if you make changes to it.  
+To run the files built by the last step, run "main.py" either via command line or through a Python compatible IDE.
+
+## Licenses
+Mercury GS includes other open source software, for licensing details, see [here](/licenses).
+
+## Get Involved
+If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
