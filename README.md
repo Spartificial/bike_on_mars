@@ -6,8 +6,8 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
 - [Background](#background)
 - [Mars Environment](#mars-environment-overview)
 - [Types of Tasks](#types-of-tasks)
-  - [Obstacles Avoidance]
-  - [Target Following]
+  - [Obstacles Avoidance](#obstacle-avoidance)
+  - [Target Following](#target-following)
 
 ## Background
 
@@ -26,3 +26,7 @@ So our objective is to create a bike which is able to explore the Martian Surfac
 7. RUSTY PLANET: Mars is known as the Red Planet because iron minerals in the Martian soil oxidize, or rust, causing the soil and atmosphere to look red.
 
 ## Types of Tasks
+- #### Obstacle Avoidance
+        In this task our goal is to explore the martian surface while avoiding the obstacles
+- #### Target Following
+        In this task our goal is to reach a target location on Martian Surface
