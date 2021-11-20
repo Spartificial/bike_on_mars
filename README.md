@@ -8,6 +8,7 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
 - [Types of Tasks](#types-of-tasks)
   - [Obstacles Avoidance](#obstacle-avoidance)
   - [Target Following](#target-following)
+- [Solution](#solution)
 
 ## Background
 
@@ -27,6 +28,29 @@ So our objective is to create a bike which is able to explore the Martian Surfac
 
 ## Types of Tasks
 - #### Obstacle Avoidance
-        In this task our goal is to explore the martian surface while avoiding the obstacles
+        In this task our goal is to explore the martian surface while avoiding the obstacles.
 - #### Target Following
-        In this task our goal is to reach a target location on Martian Surface
+        In this task our goal is to reach a given target location on Martian Surface autonomously.
+        
+## Solution
+For both of the above task we used a Reinforcement Learning (RL) approach. 
+Procedure:
+1. Firstly we create an OpenAI gym environment where we can control our agent (Bike) in an environment (Martian Surface).
+2. Now we setup a reward function (R) and the goal of our agent will be to maximize this reward function.
+3. Now we will train our agent to maximize this reward function using Reinforcement Learning algorithms (DDPG algorithm) by using experience of self-play.
+4. PLoting the cummulative rewaard to see if the agent's trainging is converging or not.
+5. Saving and testing the model.
+
+### Components of RL
+- Agent: Bike
+- Environment: Mars surface and obstacles (stones)
+- Action: The Bike's Handlebar position (i.e the angle at which the handlebar should be moved)
+- Observation: 
+    1. Postion and Orientation of the Bike.
+    2. Postion of the Target location.
+    3. The distance traveled by rays before colliding with an obstacle.
+- Reward:
+    1. Positive reward if the Bike reaches the target location.
+    2. Negative reward if the Bike collides with an obstacle.
+    3. Negative reward if the Bike gets too far away from the target location.
+    4. Negative reward if the Bike keeps rotating in a circular path.
