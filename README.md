@@ -34,7 +34,12 @@ So our objective is to create a bike which is able to explore the Martian Surfac
         
 ## Solution
 For both of the above task we used a Reinforcement Learning (RL) approach. 
-Procedure:
+
+### Algorithm
+Deep Deterministic Policy Gradient (DDPG) is a reinforcement learning technique that combines both Q-learning and Policy gradients. DDPG being an actor-critic technique consists of two models: Actor and Critic. The actor is a policy network that takes the state as input and outputs the exact action (continuous), instead of a probability distribution over actions. The critic is a Q-value network that takes in state and action as input and outputs the Q-value. DDPG is an “off”-policy method. DDPG is used in the continuous action setting and the “deterministic” in DDPG refers to the fact that the actor computes the action directly instead of a probability distribution over actions.
+DDPG is used in a continuous action setting and is an improvement over the vanilla actor-critic.
+
+###Procedure:
 1. Firstly we create an OpenAI gym environment where we can control our agent (Bike) in an environment (Martian Surface).
 2. Now we setup a reward function (R) and the goal of our agent will be to maximize this reward function.
 3. Now we will train our agent to maximize this reward function using Reinforcement Learning algorithms (DDPG algorithm) by using experience of self-play.
