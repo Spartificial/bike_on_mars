@@ -43,7 +43,7 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
 1. Firstly we create an OpenAI gym environment where we can control our agent (Bike) in an environment (Martian Surface).
 2. Now we setup a reward function (R) and the goal of our agent will be to maximize this reward function.
 3. Now we will train our agent to maximize this reward function using Reinforcement Learning algorithms (DDPG algorithm) by using experience of self-play.
-4. PLoting the cummulative rewaard to see if the agent's trainging is converging or not.
+4. Ploting the cummulative reward to see if the agent's training is converging or not.
 5. Saving and testing the model.
 
 ### Components of RL
