@@ -1,5 +1,5 @@
 
-# Self-balancing bicycle
+# Self-balancing bicycle for Martian Surface
 An Open Source model of a bicycle agent that self-balances itself and navigates to a certain target location in a Martian Surface Environment.  
 
 ## Contents
