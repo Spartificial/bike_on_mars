@@ -66,4 +66,4 @@ We will be adding this project as an interactive small game on our website very 
 
 
 ## Licence
-For licensing details see [here](/LICENSE.md)
+For licensing details see [here](/LICENSE)
