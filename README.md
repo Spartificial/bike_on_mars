@@ -9,7 +9,7 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
   - [Obstacles Avoidance](#obstacle-avoidance)
   - [Target Following](#target-following)
 - [Solution](#solution)
-- [GUI on website](#gui-on-website)
+- [GUI on website](#gui-on-spartificial-website)
 - [LICENSE](#license)
 
 ## Background
@@ -67,5 +67,5 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
 We will be adding this project as an interactive small game on our website very soon.
 
 
-## Licence
+## License
 This project is licensed under Apache-2.0 License. For more details, see [here](/LICENSE)
