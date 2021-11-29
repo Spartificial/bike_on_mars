@@ -9,6 +9,9 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
   - [Obstacles Avoidance](#obstacle-avoidance)
   - [Target Following](#target-following)
 - [Solution](#solution)
+- [GUI on Spartificial website](#gui-on-spartificial-website)
+- [LICENSE](#license)
+- [Get Involved](#get-involved)
 
 ## Background
 
@@ -59,3 +62,14 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
     2. Negative reward if the Bike collides with an obstacle.
     3. Negative reward if the Bike gets too far away from the target location.
     4. Negative reward if the Bike keeps rotating in a circular path.
+
+
+## GUI on Spartificial website
+We will be adding this project as an interactive small game on our website very soon.
+
+
+## License
+This project is licensed under Apache-2.0 License. For more details, see [here](/LICENSE)
+
+## Get Involved
+If you wish to contribute directly to the development of this project, have a look at the existing Github issues and register [here](https://www.spartificial.com/get-involved).
