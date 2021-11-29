@@ -52,7 +52,9 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
 ### Components of RL
 - Agent: Bike
 - Environment: Mars surface and obstacles (stones)
-- Action: The Bike's Handlebar position (i.e the angle at which the handlebar should be moved)
+- Action: 
+    1. The Bike's Handlebar position (i.e the angle at which the handlebar should be moved)
+    2. The Bike's speed (i.e. Torque on the wheels)
 - Observation: 
     1. Postion and Orientation of the Bike.
     2. Postion of the Target location.
@@ -62,6 +64,7 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
     2. Negative reward if the Bike collides with an obstacle.
     3. Negative reward if the Bike gets too far away from the target location.
     4. Negative reward if the Bike keeps rotating in a circular path.
+    5. Negative reward if the Bike takes more than 1000 timesteps to complete the episode.
 
 
 ## GUI on Spartificial website
