@@ -11,6 +11,7 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
 - [Solution](#solution)
 - [GUI on Spartificial website](#gui-on-spartificial-website)
 - [LICENSE](#license)
+- [Get Involved](#get-involved)
 
 ## Background
 
