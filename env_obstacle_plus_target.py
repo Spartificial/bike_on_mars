@@ -45,10 +45,10 @@ class CycleBalancingEnv(gym.Env):
         self.z_balance = -0.25  # Offset between the Bike's center of gravity and the height from which rays are passed
         self.z_target = -1
         self.target_body = -1
-        self.width = 1920  # Width of Visual Output
-        self.height = 1080  # Height of Visual Output
-        self.video = cv2.VideoWriter('video.avi', -1, 30, (self.width, self.height))  # For saving the output
-        self.img_cnt = 0
+        #self.width = 1920  # Width of Visual Output
+        #self.height = 1080  # Height of Visual Output
+        #self.video = cv2.VideoWriter('video.avi', -1, 30, (self.width, self.height))  # For saving the output
+        #self.img_cnt = 0
 
         self.make_obstacles()
         self.reset()
