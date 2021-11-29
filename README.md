@@ -63,7 +63,7 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
     4. Negative reward if the Bike keeps rotating in a circular path.
 
 
-## GUI on Spartifiical website
+## GUI on Spartificial website
 We will be adding this project as an interactive small game on our website very soon.
 
 
