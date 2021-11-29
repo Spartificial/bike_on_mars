@@ -66,4 +66,4 @@ We will be adding this project as an interactive small game on our website very 
 
 
 ## Licence
-For licensing details see [here](/LICENSE)
+This project is licensed under Apache-2.0 License. For more details, see [here](/LICENSE)
