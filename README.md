@@ -9,6 +9,8 @@ An Open Source model of a bicycle agent that self-balances itself and navigates 
   - [Obstacles Avoidance](#obstacle-avoidance)
   - [Target Following](#target-following)
 - [Solution](#solution)
+- [GUI on website](#gui-on-website)
+- [LICENSE](#license)
 
 ## Background
 
