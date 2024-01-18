@@ -68,11 +68,8 @@ DDPG is used in a continuous action setting and is an improvement over the vanil
 
 
 ## GUI on Spartificial website
-We will be adding this project as an interactive small game on our website very soon.
+We will be adding this project as an interactive small game on our [website](https://spartificial.com) very soon.
 
 
 ## License
 This project is licensed under Apache-2.0 License. For more details, see [here](/LICENSE)
-
-## Get Involved
-If you wish to contribute directly to the development of this project, have a look at the existing Github issues and register [here](https://www.spartificial.com/get-involved).
