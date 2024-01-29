@@ -1,4 +1,5 @@
-from env_obstacle import CycleBalancingEnv
+
+from env_obstacle_plus_target import CycleBalancingEnv
 from rl.memory import SequentialMemory
 from rl.random import OrnsteinUhlenbeckProcess
 from rl.agents import DDPGAgent
@@ -42,7 +43,6 @@ agent.compile([Adam(lr=.0001, clipnorm=1.0), Adam(lr=.001, clipnorm=1.0)], metri
 
 #Loading Weights
 #agent.load_weights('ddpg_{}_weights.h5f'.format('32_3_rays_final'))
-
 episode_reward = 0
 history = agent.fit(env, nb_steps=200, visualize=True, verbose=2, nb_max_episode_steps=1000)
 episode_reward += history.history['episode_reward']
