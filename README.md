@@ -1,5 +1,5 @@
 
-# Self-balancing bicycle for Martian Surface
+# ~~Self-balancing bicycle~~ / Autonomous Two Wheel Rover for Martian Surface
 An Open Source model of a bicycle agent that self-balances itself and navigates to a certain target location in a Martian Surface Environment.  
 
 ## Contents
@@ -35,6 +35,10 @@ So our objective is to create a bike which is able to explore the Martian Surfac
 - #### Target Following
         In this task our goal is to reach a given target location on Martian Surface autonomously.
         
+
+https://github.com/Spartificial/bike_on_mars/assets/50978045/d9b23cd6-fd9d-481c-a46c-7a6d5a3a41d5
+
+
 ## Solution
 For both of the above task we used a Reinforcement Learning (RL) approach. 
 
