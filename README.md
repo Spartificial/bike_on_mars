@@ -1,5 +1,5 @@
 
-# Self-balancing bicycle for Martian Surface
+# ~~Self-balancing bicycle~~ / Autonomous Two Wheel Rover for Martian Surface
 An Open Source model of a bicycle agent that self-balances itself and navigates to a certain target location in a Martian Surface Environment.  
 
 ## Contents
